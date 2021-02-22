@@ -1,0 +1,25 @@
+title: Asamyuta Hastas
+author: Khristin Godfrey
+email: khristing3@gmail.com
+description: >-
+  My name is Khristin and I have been practicing Bharatanatyam for
+  a total of 6 years.  I first started at 14 years old and practiced for 
+  4 years.  I took a break for college and career and resumed practicing
+  at age 31.
+
+social:
+  twitter: 
+  facebook: 
+  instagram: chaandi_64
+  github: khrsiting3
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
